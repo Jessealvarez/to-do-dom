@@ -26,3 +26,19 @@ form{
     font-size: 15px;
     font-family: 'Press Start 2P', cursive;
 }
+
+#secondary-text{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+}
+
+#delete-button{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    border-radius: 2px;
+    width: 300px;
+    text-align:center;
+    
+    display:flex;
+    flex-direction: column;
+}
