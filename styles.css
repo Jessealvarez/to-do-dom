@@ -1,0 +1,28 @@
+
+
+
+form{
+    display:flex;
+    flex-direction: column;
+    width: 300px;
+    
+}
+
+#submitbutton{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    border-radius: 2px;
+
+}
+
+#taskbox{
+    display:flex;
+    flex-direction: column;
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#list-goes-here{
+    font-size: 15px;
+    font-family: 'Press Start 2P', cursive;
+}
